@@ -1,0 +1,32 @@
+[
+  {
+    "img" : "../img/chanel/1.jpg",
+    "id": "253253252555555432",
+    "brand": "Chanel" ,
+    "nameBags": "2.55",
+    "price" : "€ 4.480"
+  },
+  {
+    "img" : "../img/D&G/1.jpg",
+    "id": "25325325253425437",
+    "brand": "Dolce&Gabbana" ,
+    "nameBags": "Welcome",
+    "price" : "€ 2.305"
+
+  },
+  {
+    "img" : "../img/louisVuitton/1.jpg",
+    "id": "25325325253425412",
+    "brand": "Louis Vuitton" ,
+    "nameBags": "Petite mall",
+    "price" : "€ 3.900"
+  },
+  {
+    "img" : "../img/Valentino/1.jpg",
+    "id": "25325325253425432",
+    "brand": "Valentino" ,
+    "nameBags": "CandyStud",
+    "price" : "€ 2.260"
+  }
+
+]
